@@ -45,7 +45,7 @@ Now when you open code-server from the home screen, you will be using the PWA.
 The advantages of this are more screen real estate and access to top-level keyboard shortcuts because it's running like an app.
 An example shortcut is the `cmd+w` to close an active file in the workbench. You can add this to your `keybindings.json` by doing the following:
 
-1. Open up code-serer
+1. Open up code-server
 2. `Command Palette > Open Keyboard Shortcuts (JSON)`
 3. Add the following to your `keybindings.json`
 
